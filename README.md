@@ -50,7 +50,7 @@ Over the next three months, planned improvements include
 Project Status:
 
 Status: Prototype in development.
-Project: SolarWise Algeria — Turn Algeria's Sun into Your Savings.
+Project: SolarChoice Algeria, Turn Algeria's Sun into Your Savings.
 Developer: Saad Chouireb
 Live Demo: 
 
