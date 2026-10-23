@@ -1,6 +1,6 @@
 # SolarChoice Algeria
 Turn Algeria's Sun into Your Savings
-Live Demo:
+Live Demo: https://gleeful-zabaione-9bd321.netlify.app
 
 About the Project:
 
@@ -52,6 +52,6 @@ Project Status:
 Status: Prototype in development.
 Project: SolarChoice Algeria, Turn Algeria's Sun into Your Savings.
 Developer: Saad Chouireb
-Live Demo: 
+Live Demo: https://gleeful-zabaione-9bd321.netlify.app
 
 
